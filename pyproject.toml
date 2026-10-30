@@ -1,6 +1,6 @@
 [project]
 name = "mini-compound-text"
-version = "0.1.1"
+version = "0.1.2"
 description = "Converts ISO 2022 compound text from T.61 and X.400 messages to Unicode, handling single-byte character sets only."
 requires-python = ">=3.10"
 dependencies = []
